@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "312a95a329ba5457",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6344a8295dcad6d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "020 Introduction of Multilayer Perception in Python.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7ba6ce61a896fbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5fc3d0484211cae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbdfe27614aee715",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "149a9baf5402fb85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ee2ceb3ff11e531e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b462acb4f34c23b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ca03db9cc24594a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "020 Introduction of Multilayer Perception in Python.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
